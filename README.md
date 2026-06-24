@@ -6,6 +6,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Patterns](https://img.shields.io/badge/Patterns-6_Production_Ready-green.svg)](#patterns)
+[![GitHub stars](https://img.shields.io/github/stars/Evgeniy-Mikhailove/multi-agent-orchestration?style=social)](https://github.com/Evgeniy-Mikhailove/multi-agent-orchestration/stargazers)
 
 ---
 
